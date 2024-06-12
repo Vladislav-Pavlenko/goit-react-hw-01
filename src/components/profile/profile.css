@@ -91,3 +91,11 @@ ol {
   justify-content: center;
   align-items: center;
 }
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
